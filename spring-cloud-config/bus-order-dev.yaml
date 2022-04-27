@@ -1,1 +1,2 @@
-key: dev
+bus:
+  key: dev
